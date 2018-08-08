@@ -6,7 +6,7 @@ using System.Windows;
 
 //
 // Im using the Windows forms Drawing, because idk how to work with the WPF Drawing commands.
-//
+// TODO: Add Comments!
 
 namespace WpfApplicationpaartest
 {
