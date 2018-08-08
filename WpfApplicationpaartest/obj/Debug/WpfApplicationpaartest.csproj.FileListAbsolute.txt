@@ -1,0 +1,65 @@
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\WpfApplicationpaartest.exe.config
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\WpfApplicationpaartest.exe
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\WpfApplicationpaartest.pdb
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.csprojResolveAssemblyReference.cache
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\MainWindow.g.cs
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\App.g.cs
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest_Content.g.cs
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest_MarkupCompile.cache
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest_MarkupCompile.lref
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\MainWindow.baml
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.g.resources
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.Properties.Resources.resources
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.csproj.GenerateResource.Cache
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.exe
+C:\Users\tn.DESKTOP-91L17BK.001\Documents\Visual Studio 2015\Projects\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.pdb
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\WpfApplicationpaartest.exe.config
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.exe
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.pdb
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\WpfApplicationpaartest.exe.config
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.exe
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.pdb
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\WpfApplicationpaartest.exe
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\WpfApplicationpaartest.pdb
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.csprojResolveAssemblyReference.cache
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\MainWindow.g.cs
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\App.g.cs
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest_Content.g.cs
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest_MarkupCompile.cache
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest_MarkupCompile.lref
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\MainWindow.baml
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.g.resources
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.Properties.Resources.resources
+C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.csproj.GenerateResource.Cache
