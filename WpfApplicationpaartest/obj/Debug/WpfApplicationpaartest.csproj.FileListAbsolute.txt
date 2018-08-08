@@ -63,3 +63,6 @@ C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfAppl
 C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.g.resources
 C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.Properties.Resources.resources
 C:\Users\tn.DESKTOP-91L17BK.001\Source\Repos\test\WpfApplicationpaartest\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.csproj.GenerateResource.Cache
+C:\Users\tn.DESKTOP-91L17BK\Source\Repos\simple-colorpicker-tool\WpfApplicationpaartest\bin\Debug\WpfApplicationpaartest.exe.config
+C:\Users\tn.DESKTOP-91L17BK\Source\Repos\simple-colorpicker-tool\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.exe
+C:\Users\tn.DESKTOP-91L17BK\Source\Repos\simple-colorpicker-tool\WpfApplicationpaartest\obj\Debug\WpfApplicationpaartest.pdb
